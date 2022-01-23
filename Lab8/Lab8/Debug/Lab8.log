@@ -1,0 +1,7 @@
+﻿  Person.cpp
+  Student.cpp
+C:\Users\Vlad\Documents\Work\Labs_PNIPU\Grisha\Lab8\Lab8\Student.cpp(14,11): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Vlad\Documents\Work\Labs_PNIPU\Grisha\Lab8\Lab8\Student.cpp(29,36): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+C:\Users\Vlad\Documents\Work\Labs_PNIPU\Grisha\Lab8\Lab8\Student.cpp(32,49): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Создание кода...
+  Lab8.vcxproj -> C:\Users\Vlad\Documents\Work\Labs_PNIPU\Grisha\Lab8\Debug\Lab8.exe
